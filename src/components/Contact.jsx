@@ -22,7 +22,7 @@ const contactItems = [
     icon: <FaLinkedinIn />,
     label: 'LinkedIn',
     value: 'Udit Raj Dubey',
-    href: 'https://linkedin.com/in/uditrajdubey',
+    href: 'https://www.linkedin.com/in/udit-raj-dubey-0a551528a/',
   },
   {
     icon: <FaGithub />,
